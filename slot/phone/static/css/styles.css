@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    width: 98vw;
+    height: 15vh;
+    display: grid;
+    place-items: center;
+}
+
+.header_div{
+    width: 95%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_div{
+    width: 50%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
